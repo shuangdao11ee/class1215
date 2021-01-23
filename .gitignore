@@ -1,2 +1,2 @@
-#忽略excel后缀名
-01.excel
+#忽略所有excel 后缀名
+*.excel
